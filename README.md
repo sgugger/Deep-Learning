@@ -15,6 +15,7 @@ Here are my jupyter notebooks on deep learning. All of them are written in pytor
 
 * [Neural cache pointer](https://github.com/sgugger/Deep-Learning/blob/master/Cache%20pointer.ipynb) introduce by [Grave et al.](https://arxiv.org/abs/1612.04426)
 * [Superconvergence on cifar10](https://github.com/sgugger/Deep-Learning/blob/master/Cyclical%20LR%20and%20momentums.ipynb) using the 1cycle policy introduce by [Leslie Smith](https://arxiv.org/abs/1803.09820)
+* [Deep painterly hamronization]( ) from [this article](https://arxiv.org/abs/1804.03189)
 
 ----
 The rest is just a bun of random stuff shared with fellow fastai students.
