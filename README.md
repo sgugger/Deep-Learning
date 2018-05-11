@@ -9,6 +9,7 @@ Here are my jupyter notebooks on deep learning. All of them are written in pytor
 
 * [Using the new training API in fastai](https://github.com/sgugger/Deep-Learning/blob/master/Understanding%20the%20new%20fastai%20API%20for%20scheduling%20training.ipynb).
 * [Building a simple neural net in pytorch](https://github.com/sgugger/Deep-Learning/blob/master/First%20neural%20net%20in%20pytorch.ipynb).
+* [Explore the fastai callback system](https://github.com/sgugger/Deep-Learning/blob/master/Using%20the%20callback%20system%20in%20fastai.ipynb).
 
 ----
 ## Implementation of articles
